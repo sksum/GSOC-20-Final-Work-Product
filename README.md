@@ -14,11 +14,11 @@
 
 
 ## Abstract/Summary 
-### Spending the summer of 2020 working on MusicBlocks has been an amazing experience .
-### I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
-### For the past 4 months I , along with my peers , have been working tirelessly to make musicblocks better. <br />
-### I have successfully added new features, widgets, new Blocks and also refactored a lot of code.<br />
-### Issues solved this summer : 71 (complete List of issues at the bottom) over a course of roughly 90 days , these included new additions , enhancements and bug fixes.
+Spending the summer of 2020 working on MusicBlocks has been an amazing experience .
+I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
+For the past 4 months I , along with my peers , have been working tirelessly to make musicblocks better.
+I have successfully added new features, widgets, new Blocks and also refactored a lot of code.<br />
+Issues solved this summer : 71 (complete List of issues at the bottom) over a course of roughly 90 days , these included new additions , enhancements and bug fixes.
 <br />
 
 ---
@@ -76,10 +76,10 @@
     Some of the blocks I helped develop this summer were :
     - [Pitch Analyser](https://github.com/sugarlabs/musicblocks/pull/2388) : Converts audio input to musical pitch .
      For more Info - https://musicblocks.net/2020/07/15/how-to-make-a-tuner-with-music-blocks/
-    - Panning : alows mixinig capabilities 
+    - [Panning](https://github.com/sugarlabs/musicblocks/pull/2445): alows mixinig capabilities 
     
     &nbsp;
-    along with hover sensors , crescendo "within a note", set grid etc
+    along with [hover sensors](https://github.com/sugarlabs/musicblocks/pull/2328) , [crescendo "within a note"](https://github.com/sugarlabs/musicblocks/pull/2437) , [set grid](https://github.com/sugarlabs/musicblocks/pull/2337) and more.
 
     &nbsp;
 
