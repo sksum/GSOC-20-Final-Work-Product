@@ -28,14 +28,14 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
 ## Highlights
 - [MusicKeyboard](https://github.com/sugarlabs/musicblocks/pull/2507) and [Midi](https://github.com/sugarlabs/musicblocks/pull/2322): <br />
     The MusicKeyboard widget in MusicBlocks now considers BPM and Tempo info to generate notes . 
-    The MusicKeyboard widget now accepts Midi keyboard (usb) as an input source with the help of the [Web MIDI API](https://www.w3.org/TR/webmidi/) . There are still some performance issues with the [.mid file input]()
+    The MusicKeyboard widget now accepts Midi keyboard (USB) as an input source with the help of the [Web MIDI API](https://www.w3.org/TR/webmidi/) . There are still some performance issues with the [.mid file input]()
     &nbsp;
 
     ![keyboard](./images/midi.gif)
     &nbsp;
 
 - Widgets: <br />
-    [Oscilloscope](https://github.com/sugarlabs/musicblocks/pull/2447) widget was added this summer which allows users to visualize music waveforms .
+    [Oscilloscope](https://github.com/sugarlabs/musicblocks/pull/2447) widget was added this summer which allows users to visualize musical waveforms .
     &nbsp;
 
     ![oscilloscope](./images/oscilloscope.gif)
@@ -49,7 +49,7 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
     ![pie](./images/pie.png) 
     &nbsp;
 
-    [Statistics](https://github.com/sugarlabs/musicblocks/pull/2540) are now displaed as a widget and we have added new Stats which are better oriented for musical parameters and some of them are used to suggest tags when publishing.
+    [Statistics](https://github.com/sugarlabs/musicblocks/pull/2540) are now displayed as a widget and we have added new Stats which are better oriented for musical parameters and some of them are used to suggest tags when publishing.
     &nbsp;
 
     ![stats](./images/stats.png)
@@ -64,7 +64,7 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
     &nbsp;
 
 - [on everybeatdo](https://github.com/sugarlabs/musicblocks/pull/2378): <br />
-    This is a new block which uses a seperate turtle as a beat compainion to run tasks on every beat regardless of note playing , whereas the **on everynotedo** block only worked when a note was queued in the project .
+    This is a new block which uses a separate turtle as a beat companion to run tasks on every beat regardless of note playing , whereas the **on everynotedo** block only worked when a note was queued in the project .
 - [Search](https://github.com/sugarlabs/musicblocks/pull/2502): <br />
     I helped revamp the JqueryUI Search widget to use images as identifiers . The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
     &nbsp;
@@ -76,7 +76,7 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
     Some of the blocks I helped develop this summer were :
     - [Pitch Analyser](https://github.com/sugarlabs/musicblocks/pull/2388) : Converts audio input to musical pitch .
      For more Info - https://musicblocks.net/2020/07/15/how-to-make-a-tuner-with-music-blocks/
-    - [Panning](https://github.com/sugarlabs/musicblocks/pull/2445): alows mixinig capabilities 
+    - [Panning](https://github.com/sugarlabs/musicblocks/pull/2445): allows mixing capabilities 
     
     &nbsp;
     along with [hover sensors](https://github.com/sugarlabs/musicblocks/pull/2328) , [crescendo "within a note"](https://github.com/sugarlabs/musicblocks/pull/2437) , [set grid](https://github.com/sugarlabs/musicblocks/pull/2337) and more.
