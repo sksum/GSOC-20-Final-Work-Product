@@ -5,8 +5,8 @@
 <br/>
 
 #### Project Details 
-- Project Title: **Resolve 100 issues in Music Blocks**
-- Proposal: [ Proposal ](summerofcode.withgoogle.com/projects/#6367628337086464)
+- Project Title: [***Resolve 100 issues in Music Blocks***](summerofcode.withgoogle.com/projects/#6367628337086464)
+- Proposal: [Proposal](./prop.pdf)
 - Organization: [Sugarlabs](https://github.com/sugarlabs/)
 - Mentors : [Walter Bender](https://github.com/walterbender)<br />
             &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Devin Ulibarri](https://github.com/pikurasa)<br />
@@ -18,6 +18,9 @@ Spending the summer of 2020 working on MusicBlocks has been an amazing experienc
 I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
 For the past 4 months I along with my peers have been working tirelessly to make musicblocks better. <br />
 I have successfully added new features, widgets, new Blocks and also refactored a lot of code.
+<br/>
+Issues successfully solved in this summer : 71 (complete List of issues given at the bottom of page)
+These Issues 
 &nbsp;
 
 ---
