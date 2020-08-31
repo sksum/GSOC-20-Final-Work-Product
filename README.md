@@ -66,8 +66,15 @@ ___
     ![pitch](./images/pitch.gif)
     &nbsp;
 
+
+
+
 Thank You for Reading <br />
-![](./images/me.png) Saksham Mrig
+
+Regards -<br />
+Saksham Mrig  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](./images/me.png)
 
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/saksham-mrig-b772851a3/)
