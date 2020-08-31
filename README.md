@@ -1,17 +1,29 @@
 # Google Summer Of Code 2020 - Final Work Product
 ![](./images/logo.svg) 
 ### sugarlabs/[musicblocks](https://github.com/sugarlabs/musicblocks) 
-#### author:sksum ([Saksham Mrig](https://github.com/sksum)) 
+### author:sksum ([Saksham Mrig](https://github.com/sksum)) 
+<br/>
+
 #### Project Details 
 - Project Title: **Resolve 100 issues in Music Blocks**
 - Proposal: [ Proposal ](summerofcode.withgoogle.com/projects/#6367628337086464)
 - Organization: [Sugarlabs](https://github.com/sugarlabs/)
+- Mentors : [Walter Bender](https://github.com/walterbender)<br />
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Devin Ulibarri](https://github.com/pikurasa)<br />
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Sumit Srivastava](https://github.com/sum2it)
+
 
 ## Abstract/Summary 
 Spending the summer of 2020 working on MusicBlocks has been an amazing experience .
 I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
-For the past 4 months I along with my peers have been working tirelessly to make musicblocks better. I have successfully added new features, widgets, new Blocks and also refactored a lot of code.
-___
+For the past 4 months I along with my peers have been working tirelessly to make musicblocks better. <br />
+I have successfully added new features, widgets, new Blocks and also refactored a lot of code.
+&nbsp;
+
+---
+&nbsp;
+
+
 ## Highlights
 - MusicKeyboard and Midi: <br />
     The MusicKeyboard widget in MusicBlocks now considers BPM and Tempo info to generate notes . 
@@ -22,13 +34,20 @@ ___
     &nbsp;
 
 - Widgets: <br />
-    Oscilloscope widget was added this summer which allows users to visualize their music waveforms .
+    Oscilloscope widget was added this summer which allows users to visualize music waveforms .
     &nbsp;
 
     ![oscilloscope](./images/oscilloscope.gif)
     &nbsp;
 
-    Issues related to temperament widget and the pitch slider were mostly resolved .
+    Issues related to pitch slider were mostly resolved .
+
+    We have extended the functionality of the temperament widget to create multiple custom pitches.
+    &nbsp;
+
+    ![pie](./images/pie.png) 
+    &nbsp;
+
     Statistics are now displaed as a widget and we have added new Stats which are better oriented for musical parameters and some of them are used to suggest tags when publishing.
     &nbsp;
 
@@ -46,7 +65,7 @@ ___
 - on everybeatdo: <br />
     This is a new block which uses a seperate turtle as a beat compainion to run tasks on every beat regardless of note playing , whereas the **on everynotedo** block only worked when a note was queued in the project .
 - Search: <br />
-    I helped revamp the JqueryUI Search widget to use searchIds for to use images as identifiers .
+    I helped revamp the JqueryUI Search widget to use images as identifiers . The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
     &nbsp;
 
     ![search](./images/search.gif)
@@ -66,6 +85,7 @@ ___
     ![pitch](./images/pitch.gif)
     &nbsp;
 ---
+&nbsp;
 ### You can get the complete list of issues closed and my Pull requests from [CODE](Code.md) or here :
 
 
@@ -148,12 +168,14 @@ ___
 </details>
 &nbsp;
 
-**Thank You for Reading** <br />
-*Regards -*<br />
-Saksham Mrig 
+---
+&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](./images/me.png)
+>**Thank You for Reading** <br />
+>*Regards -*<br />
+>Saksham Mrig <br />
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](./images/me.png)<br />
 
-Contact:
-- [LinkedIn](https://www.linkedin.com/in/saksham-mrig-b772851a3/)
-- [Github](https://github.com/sksum)
+>Contact:
+>- [LinkedIn](https://www.linkedin.com/in/saksham-mrig-b772851a3/)
+>- [Github](https://github.com/sksum)
