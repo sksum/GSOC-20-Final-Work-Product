@@ -5,7 +5,7 @@
 <br/>
 
 #### Project Details 
-- Project Title: [***Resolve 100 issues in Music Blocks***](summerofcode.withgoogle.com/projects/#6367628337086464)
+- Project Title: [***Resolve 100 issues in Music Blocks***](https://summerofcode.withgoogle.com/projects/#6367628337086464)
 - Proposal: [Proposal](./prop.pdf)
 - Organization: [Sugarlabs](https://github.com/sugarlabs/)
 - Mentors : [Walter Bender](https://github.com/walterbender)<br />
@@ -14,21 +14,19 @@
 
 
 ## Abstract/Summary 
-Spending the summer of 2020 working on MusicBlocks has been an amazing experience .
-I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
-For the past 4 months I along with my peers have been working tirelessly to make musicblocks better. <br />
-I have successfully added new features, widgets, new Blocks and also refactored a lot of code.
-<br/>
-Issues successfully solved in this summer : 71 (complete List of issues given at the bottom of page)
-These Issues 
-&nbsp;
+### Spending the summer of 2020 working on MusicBlocks has been an amazing experience .
+### I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
+### For the past 4 months I , along with my peers , have been working tirelessly to make musicblocks better. <br />
+### I have successfully added new features, widgets, new Blocks and also refactored a lot of code.<br />
+### Issues solved this summer : 71 (complete List of issues at the bottom) over a course of roughly 90 days , these included new additions , enhancements and bug fixes.
+<br />
 
 ---
 &nbsp;
 
 
 ## Highlights
-- MusicKeyboard and Midi: <br />
+- [MusicKeyboard](https://github.com/sugarlabs/musicblocks/pull/2507) and [Midi](https://github.com/sugarlabs/musicblocks/pull/2322): <br />
     The MusicKeyboard widget in MusicBlocks now considers BPM and Tempo info to generate notes . 
     The MusicKeyboard widget now accepts Midi keyboard (usb) as an input source with the help of the [Web MIDI API](https://www.w3.org/TR/webmidi/) . There are still some performance issues with the [.mid file input]()
     &nbsp;
@@ -37,37 +35,37 @@ These Issues
     &nbsp;
 
 - Widgets: <br />
-    Oscilloscope widget was added this summer which allows users to visualize music waveforms .
+    [Oscilloscope](https://github.com/sugarlabs/musicblocks/pull/2447) widget was added this summer which allows users to visualize music waveforms .
     &nbsp;
 
     ![oscilloscope](./images/oscilloscope.gif)
     &nbsp;
 
-    Issues related to pitch slider were mostly resolved .
+    Issues related to [pitch slider](https://github.com/sugarlabs/musicblocks/pull/2493)  were mostly resolved .
 
-    We have extended the functionality of the temperament widget to create multiple custom pitches.
+    We have extended the functionality of the [temperament](https://github.com/sugarlabs/musicblocks/pull/2365) widget to create multiple custom pitches.
     &nbsp;
 
     ![pie](./images/pie.png) 
     &nbsp;
 
-    Statistics are now displaed as a widget and we have added new Stats which are better oriented for musical parameters and some of them are used to suggest tags when publishing.
+    [Statistics](https://github.com/sugarlabs/musicblocks/pull/2540) are now displaed as a widget and we have added new Stats which are better oriented for musical parameters and some of them are used to suggest tags when publishing.
     &nbsp;
 
     ![stats](./images/stats.png)
     &nbsp;
 
 
-- Palette & Pelette menu: <br />
+- [Palette](https://github.com/sugarlabs/musicblocks/pull/2392)  & [Palette menu](https://github.com/sugarlabs/musicblocks/pull/2416): <br />
     Palette and Palette menu buttons now use simple HTML/CSS instead of CreateJS ,this has made the user experience much smoother and also handles any issues pertaining to layout distortion on resize .
     &nbsp;
 
     ![palette](./images/palette.gif)
     &nbsp;
 
-- on everybeatdo: <br />
+- [on everybeatdo](https://github.com/sugarlabs/musicblocks/pull/2378): <br />
     This is a new block which uses a seperate turtle as a beat compainion to run tasks on every beat regardless of note playing , whereas the **on everynotedo** block only worked when a note was queued in the project .
-- Search: <br />
+- [Search](https://github.com/sugarlabs/musicblocks/pull/2502): <br />
     I helped revamp the JqueryUI Search widget to use images as identifiers . The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
     &nbsp;
 
@@ -76,12 +74,12 @@ These Issues
 
 - New Blocks: <br />
     Some of the blocks I helped develop this summer were :
-    - Pitch Analyser : Converts audio input to musical pitch .
+    - [Pitch Analyser](https://github.com/sugarlabs/musicblocks/pull/2388) : Converts audio input to musical pitch .
      For more Info - https://musicblocks.net/2020/07/15/how-to-make-a-tuner-with-music-blocks/
     - Panning : alows mixinig capabilities 
     
     &nbsp;
-    along with hover sensors , crescendo , set grid etc
+    along with hover sensors , crescendo "within a note", set grid etc
 
     &nbsp;
 
@@ -174,7 +172,7 @@ These Issues
 ---
 &nbsp;
 
->**Thank You for Reading** <br />
+>***Thank You for Reading*** <br />
 >*Regards -*<br />
 >Saksham Mrig <br />
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](./images/me.png)<br />
