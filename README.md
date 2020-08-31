@@ -14,11 +14,11 @@
 
 
 ## Abstract/Summary 
-Spending the summer of 2020 working on MusicBlocks has been an amazing experience .
+Spending the summer of 2020 working on MusicBlocks has been an amazing experience.
 I'm very grateful to Sugarlabs for accepting my contributions and supporting me through the process of fixing bugs and adding new features.<br/>
-For the past 4 months I , along with my peers , have been working tirelessly to make musicblocks better.
+For the past 4 months I, along with my peers, have been working tirelessly to make musicblocks better.
 I have successfully added new features, widgets, new Blocks and also refactored a lot of code.<br />
-Issues solved this summer : 71 (complete List of issues at the bottom) over a course of roughly 90 days , these included new additions , enhancements and bug fixes.
+Issues solved this summer : 71 (complete List of issues at the bottom) over a course of roughly 90 days, these included new additions, enhancements and bug fixes.
 <br />
 
 ---
@@ -27,21 +27,21 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
 
 ## Highlights
 - [MusicKeyboard](https://github.com/sugarlabs/musicblocks/pull/2507) and [Midi](https://github.com/sugarlabs/musicblocks/pull/2322): <br />
-    The MusicKeyboard widget in MusicBlocks now considers BPM and Tempo info to generate notes . 
-    The MusicKeyboard widget now accepts Midi keyboard (USB) as an input source with the help of the [Web MIDI API](https://www.w3.org/TR/webmidi/) . There are still some performance issues with the [.mid file input]()
+    The MusicKeyboard widget in MusicBlocks now considers BPM and Tempo info to generate notes.
+    The MusicKeyboard widget now accepts Midi keyboard (USB) as an input source with the help of the [Web MIDI API](https://www.w3.org/TR/webmidi/). There are still some performance issues with the [.mid file input]()
     &nbsp;
 
     ![keyboard](./images/midi.gif)
     &nbsp;
 
 - Widgets: <br />
-    [Oscilloscope](https://github.com/sugarlabs/musicblocks/pull/2447) widget was added this summer which allows users to visualize musical waveforms .
+    [Oscilloscope](https://github.com/sugarlabs/musicblocks/pull/2447) widget was added this summer which allows users to visualize musical waveforms.
     &nbsp;
 
     ![oscilloscope](./images/oscilloscope.gif)
     &nbsp;
 
-    Issues related to [pitch slider](https://github.com/sugarlabs/musicblocks/pull/2493)  were mostly resolved .
+    Issues related to [pitch slider](https://github.com/sugarlabs/musicblocks/pull/2493)  were mostly resolved.
 
     We have extended the functionality of the [temperament](https://github.com/sugarlabs/musicblocks/pull/2365) widget to create multiple custom pitches.
     &nbsp;
@@ -57,16 +57,16 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
 
 
 - [Palette](https://github.com/sugarlabs/musicblocks/pull/2392)  & [Palette menu](https://github.com/sugarlabs/musicblocks/pull/2416): <br />
-    Palette and Palette menu buttons now use simple HTML/CSS instead of CreateJS ,this has made the user experience much smoother and also handles any issues pertaining to layout distortion on resize .
+    Palette and Palette menu buttons now use simple HTML/CSS instead of CreateJS, this has made the user experience much smoother and also handles any issues pertaining to layout distortion on resize.
     &nbsp;
 
     ![palette](./images/palette.gif)
     &nbsp;
 
 - [on everybeatdo](https://github.com/sugarlabs/musicblocks/pull/2378): <br />
-    This is a new block which uses a separate turtle as a beat companion to run tasks on every beat regardless of note playing , whereas the **on everynotedo** block only worked when a note was queued in the project .
+    This is a new block which uses a separate turtle as a beat companion to run tasks on every beat regardless of note playing, whereas the **on everynotedo** block only worked when a note was queued in the project.
 - [Search](https://github.com/sugarlabs/musicblocks/pull/2502): <br />
-    I helped revamp the JqueryUI Search widget to use images as identifiers . The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
+    I helped revamp the JQuery UI Search widget to use images as identifiers. The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
     &nbsp;
 
     ![search](./images/search.gif)
@@ -74,12 +74,12 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
 
 - New Blocks: <br />
     Some of the blocks I helped develop this summer were :
-    - [Pitch Analyser](https://github.com/sugarlabs/musicblocks/pull/2388) : Converts audio input to musical pitch .
+    - [Pitch Analyser](https://github.com/sugarlabs/musicblocks/pull/2388) : Converts audio input to musical pitch.
      For more Info - https://musicblocks.net/2020/07/15/how-to-make-a-tuner-with-music-blocks/
     - [Panning](https://github.com/sugarlabs/musicblocks/pull/2445): allows mixing capabilities 
     
     &nbsp;
-    along with [hover sensors](https://github.com/sugarlabs/musicblocks/pull/2328) , [crescendo "within a note"](https://github.com/sugarlabs/musicblocks/pull/2437) , [set grid](https://github.com/sugarlabs/musicblocks/pull/2337) and more.
+    along with [hover sensors](https://github.com/sugarlabs/musicblocks/pull/2328), [crescendo "within a note"](https://github.com/sugarlabs/musicblocks/pull/2437), [set grid](https://github.com/sugarlabs/musicblocks/pull/2337) and more.
 
     &nbsp;
 
@@ -90,7 +90,7 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
 ### You can get the complete list of issues closed and my Pull requests from [CODE](Code.md) or here :
 
 
-<details>
+<details open>
     <summary>
     Code
     </summary>
