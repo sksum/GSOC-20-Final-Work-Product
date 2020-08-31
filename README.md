@@ -18,7 +18,7 @@ ___
     The MusicKeyboard widget now accepts Midi keyboard (usb) as an input source with the help of the [Web MIDI API](https://www.w3.org/TR/webmidi/) . There are still some performance issues with the [.mid file input]()
     &nbsp;
 
-    ![keyboard](./images/midi.gif)
+    ![keyboard](./images/midi2.gif)
     &nbsp;
 
 - Widgets: <br />
@@ -69,10 +69,9 @@ ___
 
 
 
-Thank You for Reading <br />
-
-Regards -<br />
-Saksham Mrig  
+**Thank You for Reading** <br />
+*Regards -*<br />
+Saksham Mrig 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](./images/me.png)
 
