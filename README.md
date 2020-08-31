@@ -66,7 +66,7 @@ Issues solved this summer : 71 (complete List of issues at the bottom) over a co
 - [on everybeatdo](https://github.com/sugarlabs/musicblocks/pull/2378): <br />
     This is a new block which uses a separate turtle as a beat companion to run tasks on every beat regardless of note playing, whereas the **on everynotedo** block only worked when a note was queued in the project.
 - [Search](https://github.com/sugarlabs/musicblocks/pull/2502): <br />
-    I helped revamp the JQuery UI Search widget to use images as identifiers. The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
+    I helped revamp the jQuery UI Search widget to use images as identifiers. The widget now also uses id-item pairs to maintain uniqueness of block-search queries.
     &nbsp;
 
     ![search](./images/search.gif)
