@@ -5,7 +5,7 @@
 <br/>
 
 #### Project Details 
-- Project Title: [***Resolve 100 issues in Music Blocks***](https://summerofcode.withgoogle.com/projects/#6367628337086464)
+- Project Title: [***Resolve 100 issues in Music Blocks***](https://summerofcode.withgoogle.com/archive/2020/projects/5948005624053760/)
 - Proposal: [Proposal](./prop.pdf)
 - Organization: [Sugarlabs](https://github.com/sugarlabs/)
 - Mentors : [Walter Bender](https://github.com/walterbender)<br />
